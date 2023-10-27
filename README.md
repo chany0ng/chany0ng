@@ -3,7 +3,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chany0ng&layout=compact)
 <br>
-// ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chany0ng&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chany0ng&show_icons=true&theme=radical) --!>
 <!--
 **chany0ng/chany0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
