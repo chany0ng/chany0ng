@@ -1,10 +1,10 @@
 <div align=center>
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Welcome!!&animation=fadeIn&fontSize=70&fontAlignY=35&animation=${twinkling})
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35)
   
 <div align=center>	
 
-  ### chany0ng's Github 👋
+  ## chany0ng's Github 👋
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchany0ng&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
   <br/>
