@@ -4,8 +4,6 @@
   
 <div align=center>	
 
-  ## 프론트엔드 개발자 박찬용입니다 👋
-
   <br/>
   <h3 align="center"> 🛠 Most used 🛠 </h3>
   
